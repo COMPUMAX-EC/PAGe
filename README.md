@@ -1,32 +1,29 @@
-# PAGe · Página personal
+# PAGe · Personal page
 
-Página personal de presentación con cuatro secciones: **inicio**, **currículum**, **proyectos** y **contacto**.
-Es la base para mostrar quién soy y en qué trabajo con un sitio estático, rápido y sin servidor.
+🇬🇧 **English** · 🇪🇨 [Español](README.es.md)
 
-> **Estado:** plantilla inicial; los textos todavía son de ejemplo. Mi portafolio actual está en
+Personal landing page with four sections: **home**, **résumé**, **projects** and **contact**. It is the base for
+showing who I am and what I work on, with a fast static site and no server.
+
+> **Status:** starter template; the texts are still placeholders. My current portfolio is
 > [Geobas](https://github.com/COMPUMAX-EC/Geobas) (https://geobas.vercel.app).
 
-## Detalles técnicos
+## Technical details
 
-- HTML, CSS y JavaScript estáticos con **Bootstrap 5**.
-- Basada en la plantilla [Personal de Start Bootstrap](https://startbootstrap.com/template-overviews/personal).
+- Static HTML, CSS and JavaScript with **Bootstrap 5**.
+- Based on the [Start Bootstrap Personal](https://startbootstrap.com/template-overviews/personal) template.
 
 ```
-index.html      inicio
-resume.html     currículum
-projects.html   proyectos
-contact.html    contacto
-css/styles.css  estilos
+index.html      home
+resume.html     résumé
+projects.html   projects
+contact.html    contact
+css/styles.css  styles
 js/scripts.js   scripts
 ```
 
-Para verla, abre `index.html` en el navegador o publícala con GitHub Pages.
+To view it, open `index.html` in the browser or publish it with GitHub Pages.
 
-## In English
+## License
 
-Static personal page (home, résumé, projects, contact) built with Bootstrap 5 from the Start Bootstrap "Personal"
-template. Content is still placeholder; the current portfolio is the Geobas repository.
-
-## Licencia
-
-[MIT](LICENSE). La plantilla original es Copyright (c) 2013-2023 Start Bootstrap, también bajo licencia MIT.
+[MIT](LICENSE). The original template is Copyright (c) 2013-2023 Start Bootstrap, also under the MIT license.
